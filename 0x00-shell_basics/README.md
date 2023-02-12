@@ -17,10 +17,10 @@ All of the following files are scripts, except `holberton.mgc`:
 | `3-list_files` | Displays current directory contents in a long format |
 | `4-listmorefiles` | Displays, in the long format, current directory contents, including hidden files |
 | `5-listfilesdigitonly` | Displays current directory contents with user and group IDs |
-| `6-firstdirectory` | Creates a directory named `holberton` in the `/tmp/` directory |
-| `7-movethatfile` | Moves the file `betty` from `/tmp/` to `/tmp/holberton` |
+| `6-firstdirectory` | Creates a directory named `my_first_directory` in the `/tmp/` directory |
+| `7-movethatfile` | Moves the file `betty` from `/tmp/` to `/tmp/my_first_directory` |
 | `8-firstdelete` | Deletes the file `betty` |
-| `9-firstdirdeletion` | Deletes the directory `holberton` that is in the `/tmp` directory |
+| `9-firstdirdeletion` | Deletes the directory `my_first_directory` that is in the `/tmp` directory |
 | `10-back` | Changes the working directory to the previous one |
 | `11-lists` | Lists all files in the current directory and its parent directory and the `/boot` directory |
 | `12-file_type` | Prints the type of the file named `iamafile` that is in the `/tmp` directory |
