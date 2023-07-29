@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Simple Bash script that output lines containing the bash cmd
+# shellcheck disable=SC2009
+
+ps -auxf | grep "bash"

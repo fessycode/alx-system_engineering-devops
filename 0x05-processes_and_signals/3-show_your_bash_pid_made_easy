@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Simple bash script that output the PID
+# of bash, using ``pgrep``.
+
+pgrep -l bash
