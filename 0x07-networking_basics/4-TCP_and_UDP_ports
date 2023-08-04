@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# Simple bash scipt that output listining ports with
+# the following requirements:
+# - That only shows listening sockets.
+# - That shows the PID and name of the program to which each socket belongs.
+
+netstat -lp
