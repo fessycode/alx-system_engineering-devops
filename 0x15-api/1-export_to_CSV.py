@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Export api to csv"""
+""" To export api to csv"""
 import csv
 import requests
 import sys
