@@ -3,10 +3,10 @@
 Project done during **Full Stack Software Engineering studies** at **ALX Program**. It aims to learn about basics commands, navigation, files and directories in **Shell**.
 
 ## Technologies
-* Scripts written in Bash 
+* Scripts written in Bash. 
 * Tested on Ubuntu 20.04 LTS
 
-## Files
+## Files.
 All of the following files are scripts, except `holberton.mgc`:
 
 | Filename | Description |
